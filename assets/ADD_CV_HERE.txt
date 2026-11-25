@@ -1,0 +1,1 @@
+Place your CV PDF in this folder and name it cv.pdf. The website's CV button links to assets/cv.pdf.
